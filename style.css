@@ -1,0 +1,64 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+section{
+   padding: 50px 0;
+}
+
+span{
+   font-weight: 600;
+}
+
+.lead {
+   font-size: 1.25rem;
+   font-weight: 400;
+}
+
+.btn-gray {
+   background: darkslategray;
+   color: white;
+}
+
+#header {
+   height: 100vh;
+   background: #89d0ca;
+}
+
+#header h5{
+   font-size: 1.25rem;
+   font-weight: 600;
+}
+
+#header h1{
+   font-weight: 400;
+   font-size: 40px;
+}
+
+
+
+#header img{
+   height: auto;
+   width: 97%;
+}
+
+#online_course{
+   height: 100vh;
+}
+
+#online_course h4, p{
+   font-size: 19px;
+   color: #19354ec7;
+}
+
+#online_course h1{
+   font-size: 50px;
+   font-weight: 400;
+}
+
+#online_course img{
+   width: 400px;
+   height: 400px;
+   object-fit: cover;
+}
